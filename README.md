@@ -6,7 +6,7 @@ I identify myself as a data science enthusiast, my time on GitHub is mostly spen
 
 Skills: Python / R / C++ / SQL / Mongo / Neo4J
 
-- 🔭 I’m currently working on a tutorial of Kaggle Titianic competition 
+- 🔭 I’m currently working on image classification project on AWS
 - 📫 How to reach me: darrenwww210@gmail.com 
 
 
